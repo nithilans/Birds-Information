@@ -3,9 +3,9 @@
  HEAD
  My Project is I want to  spread knowledge about Birds to everyone!
 
-github page: https://github.com/nithilans/Birds-information
+github page: https://github.com/nithilans/Birds-Information
 
-webpage link: https://nithilans.github.io/Birds-information/
+webpage link: https://nithilans.github.io/Birds-Information/
 
 Project document: https://docs.google.com/document/d/1rrbpaijDozJcm3f2zRpGyki-Jva-qEeUzOZRXUq-pNw/edit?usp=sharing
 
