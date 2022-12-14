@@ -82,83 +82,8 @@ form input {
 
 }
 
-/* body */
-
-
-.section1 h1 {
-    text-align: center;
-    margin-top: 200px;
-    color: black;
-    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
-    font-family: 'Roboto Slab', serif;
-    font-family: 'Zen Dots', cursive
-}
-
-.section1 h1:hover {
-    width: 50%;
-    height: auto;
-    background-color: red;
-    position: relative;
-    animation-name: example;
-    animation-duration: 10s;
-    animation-iteration-count: 6;
-
-}
-
-@keyframes example {
-    0% {
-        background-color: lavenderblush;
-        left: 0px;
-        top: 0px;
-    }
-
-    25% {
-        background-color: goldenrod;
-        left: 200px;
-        top: 0px;
-    }
-
-    50% {
-        background-color: skyblue;
-        left: 200px;
-        top: 200px;
-    }
-
-    75% {
-        background-color: green;
-        left: 0px;
-        top: 200px;
-    }
-
-    100% {
-        background-color: lightgoldenrodyellow;
-        left: 0px;
-        top: 0px;
-    }
-}
-
-.section2 {
-    background-image: linear-gradient(rgb(4, 8, 20, 0.5), rgb(4, 8, 0, 0.5)), url(../images/peckock.jpg);
-    background-position: center;
-    min-height: 100vh;
-    background-size: cover;
-    text-align: center;
-    margin-top: 200px;
-    color: white;
-    position: absolute;
-    top: 600px;
-    font-size: 20px;
-
-}
-
-.section3 {
-    margin-top: 300px;
-    padding: 20px;
-    font-family: 'Roboto Slab', serif;
-    font-family: 'Zen Dots', cursive
-}
-
 /* boody */
+
 .image img {
     width: 400px;
     height: 400px;
