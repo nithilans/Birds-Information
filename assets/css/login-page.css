@@ -5,15 +5,13 @@
 
 body {
     font-size: 20px;
-    font-family: lato;
     background-image: linear-gradient(rgb(0, 7, 35, 0.7), rgb(0, 7, 35, 0.7)), url(../images/signinbg.png);
     background-repeat: no-repeat;
     background-size: cover;
     width: 1040px;
     height: 692px;
     font-family: 'Fredoka One', cursive;
-    font-family: 'Roboto Slab', serif;
-    font-family: 'Zen Dots', cursive;
+  
 }
 
 .container {
